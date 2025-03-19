@@ -1,5 +1,5 @@
 Implementarea unui program Java orientat pe obiecte pentru administrarea unui magazin de jocuri video. Programul utilizează clase, moștenire și colecții sortate pentru gestionarea utilizatorilor, jocurilor, împrumuturilor și achizițiilor.
-<h4>Funcționalități:</h4>
+###Funcționalități:
 1. Adăugarea de clienți
 2. Crearea și gestionarea genurilor de jocuri (ex: Action, RPG)
 3. Crearea și gestionarea platformelor (ex: Xbox, Mobile, PC)
